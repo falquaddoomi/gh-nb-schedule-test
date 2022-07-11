@@ -3,4 +3,4 @@ admin_email: no-reply@nowhere.net
 functions:
   - name: Test Notebook?
     file_path: test-nb.ipynb
-    schedule: "*/5 * * * *" # every 5 minutes
+    schedule: "*/10 * * * *" # every 10 minutes
