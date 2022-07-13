@@ -3,4 +3,5 @@ admin_email: no-reply@nowhere.net
 functions:
   - name: Test Notebook?
     file_path: test-nb.ipynb
-    schedule: "*/10 * * * *" # every 10 minutes
+    camunda_job_id: test-notebook
+    schedule: "*/30 * * * *" # every 10 minutes
