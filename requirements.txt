@@ -71,7 +71,7 @@ PyYAML==6.0
 pyzmq==23.1.0
 qtconsole==5.3.1
 QtPy==2.1.0
-requests==2.27.1
+requests==2.32.2
 rsa==4.8
 Send2Trash==1.8.0
 six==1.16.0
